@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfr4704/angular-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfr4704/angular-practice/issues"
+  },
+  "homepage": "https://github.com/lfr4704/angular-practice#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
